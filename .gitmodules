@@ -1,0 +1,3 @@
+[submodule "carcomputer-server"]
+	path = carcomputer-server
+	url = https://github.com/gfvandehei/carcomputer-server.git
