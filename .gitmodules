@@ -1,3 +1,6 @@
 [submodule "carcomputer-server"]
 	path = carcomputer-server
 	url = https://github.com/gfvandehei/carcomputer-server.git
+[submodule "carcomputer-esp32climate"]
+	path = carcomputer-esp32climate
+	url = https://github.com/gfvandehei/carcomputer-esp32climate.git

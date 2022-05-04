@@ -1,0 +1,17 @@
+async-timeout==4.0.2
+-e git+https://github.com/gfvandehei/carcomputer-server.git@1c3ca4e869d22cceb9cbae70081de611a81726d3#egg=carcomputerserver&subdirectory=../../carcomputer-server
+click==8.1.2
+Deprecated==1.2.13
+Flask==2.1.1
+greenlet==1.1.2
+itsdangerous==2.1.2
+Jinja2==3.1.1
+MarkupSafe==2.1.1
+packaging==21.3
+pydantic==1.9.0
+pyparsing==3.0.8
+redis==4.2.2
+SQLAlchemy==1.4.35
+typing_extensions==4.2.0
+Werkzeug==2.1.1
+wrapt==1.14.0
